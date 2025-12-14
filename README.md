@@ -108,7 +108,10 @@ To keep discussions organized:
 - [Cristian Martinez](https://www.linkedin.com/in/cristian-javier-martinez-09bb7031/)
 - [Alexey Grigorev](https://www.linkedin.com/in/agrigorev/)
 - [Emeli Dral](https://www.linkedin.com/in/emelidral/)
-
+- Larysa Visengeriyeva
+- Kevin Kho
+- Theofilos Papapanagiotou
+- Sejal Vaidya
 
 ## Sponsors & Supporters
 
